@@ -1,0 +1,6 @@
+{
+	"name": "components/pdfjs-dist",
+	"type": "library",
+	"description": "Generic build of Mozilla's PDF.js library.",
+	"homepage": "http://mozilla.github.io/pdf.js/"
+}
